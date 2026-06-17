@@ -29,10 +29,19 @@ const Home: React.FC = () => {
         
         {/* Profile Picture Placeholder */}
         <div className="w-full md:w-48 lg:w-56 flex-shrink-0">
+<<<<<<< HEAD
           <div className="aspect-[3/4] bg-gray-50 border border-gray-100 flex items-center justify-center text-gray-400 text-[10px] uppercase tracking-widest text-center px-4">
             [ Portrait Image Placeholder ]
           </div>
         </div>
+=======
+  <img
+    src="/fred.png"
+    alt="Fred"
+    className="aspect-[3/4] w-full object-cover border border-gray-100"
+  />
+</div>
+>>>>>>> master
       </section>
 
       {/* Who I Work With */}
