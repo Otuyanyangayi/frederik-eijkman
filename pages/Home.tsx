@@ -30,7 +30,7 @@ const Home: React.FC = () => {
         {/* Profile Picture */}
   <div className="w-full md:w-48 lg:w-56 flex-shrink-0">
     <img
-      src="/fred.png"
+      src="/fre.jpg"
       alt="Frederik Eijkman"
       className="aspect-[3/4] w-full object-cover border border-gray-100"
     />
